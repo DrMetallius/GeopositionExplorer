@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">Geoposition Explorer</string>
+
+	<plurals name="main_image_count">
+		<item quantity="one">%d image</item>
+		<item quantity="other">%d images</item>
+	</plurals>
+</resources>
